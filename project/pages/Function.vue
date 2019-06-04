@@ -1,5 +1,5 @@
 <template>
-  <div>JSt高级</div>
+  <div>JS高级</div>
 </template>
 
 <script>
