@@ -1,5 +1,5 @@
 <template>
-  <div>JS高级</div>
+  <div>JS高级之获取链接参数并保存为对象</div>
 </template>
 
 <script>
